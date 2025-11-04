@@ -12,7 +12,7 @@ Comentarios en tener en tercer nivel, ademmás en **negrita** o en *cursiva* o e
 
 ## Listas
 
-Ahora lista
+Ahora lista  
 
 - Item 1
 - Item 2 
@@ -29,4 +29,10 @@ El codigo así
 print( "Hola Mundo")
 ```
 
+## Tabla
 
+| Cod | Descripción |
+| --- | --- |
+| 1 | git |
+| 2 | docker |
+| 3 | Odoo |
