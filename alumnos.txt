@@ -1,0 +1,9 @@
+quique,https://github.com/quiquealonso/ejercicioClase4-11.git
+jose,https://github.com/Jose-Ribes/Practica1_Jose.git
+sergi,https://github.com/sermiresc/Python_Clase.git
+victor,https://github.com/Victoorbv/VBV_Python_01.git
+david,https://github.com/David-Girbes/Pruebas_python.git
+valeria,https://github.com/thevirag0/repo_valeria.git
+sergio,https://github.com/SergioBM05/Python_Classe.git
+marcos,https://github.com/MarcosJimBos/python_01Marcos.git
+jorge,https://github.com/llorch188/python01_mod.git
